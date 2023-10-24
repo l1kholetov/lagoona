@@ -376,7 +376,7 @@ body{
   margin-bottom: 70px;
 }
 
-.info-discription{
+.info-description{
   margin: 0;
 
   font-family: 'Muller', 'Arial', sans-serif;
@@ -457,7 +457,7 @@ body{
   transform: translate(-3px, 0) rotate(-45deg);
 }
 
-.service-item-discription{
+.service-item-description{
   margin-top: 0;
   margin-bottom: 0;
 
@@ -514,7 +514,7 @@ body{
   border-radius: 15px;
 }
 
-.advantages-item-discription{
+.advantages-item-description{
   margin-top: 0;
   margin-bottom: 0;
 
@@ -634,7 +634,7 @@ body{
   border-radius: 15px 15px 0 0;
 }
 
-.placement-discription{
+.placement-description{
   display: flex;
   flex-direction: column;
   padding: 32px 45px 44px 45px;
@@ -871,7 +871,7 @@ body{
   margin-bottom: 45px;
 }
 
-.contacts-item-discription{
+.contacts-item-description{
   display: inline-block;
   width: 229px;
   margin: 0;
@@ -914,7 +914,7 @@ body{
   outline: none;
 }
 
-.contacts-item-link-discription{
+.contacts-item-link-description{
   margin: 0;
 
   font-size: 16px;
@@ -966,7 +966,7 @@ body{
   color: #FFFFFF;
 }
 
-.footer-copyright-discription{
+.footer-copyright-description{
   margin: 0;
 }
 
@@ -999,7 +999,7 @@ body{
   margin-right: auto;
 }
 
-.footer-contacts-discription{
+.footer-contacts-description{
   margin-bottom: 15px;
 
   font-size: 16px;
